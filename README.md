@@ -1,7 +1,9 @@
-OneTimeSharp
+`OneTimeSharp`
 ============
 
 OneTimeSharp - C# binding to the OneTimeSecret API.
+
+You can use OneTimeSharp in any of your projects which are compatible with `.NET` (4.0+) or `Mono` (2.10.8+).
 
 _Current project state is public beta._
 
