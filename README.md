@@ -3,7 +3,9 @@ OneTimeSharp
 
 OneTimeSharp - C# binding to the OneTimeSecret API.
 
-Usage example:
+_Current project state is public beta._
+
+## Usage example: ##
 ```csharp
 using VStepanov.OneTimeSharp;
 
@@ -28,5 +30,3 @@ class Test
 }
 
 ```
-
-Current project state is public beta.
