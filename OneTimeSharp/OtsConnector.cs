@@ -385,7 +385,7 @@ namespace VStepanov.OneTimeSharp
             {
                 postData +=
                     HttpUtility.HtmlEncode(pair.Key) + "=" +
-                    HttpUtility.HtmlEncode(pair.Value) + "&";
+                    HttpUtility.UrlEncode(pair.Value) + "&";
             }
 
             return Encoding.UTF8.GetBytes(postData);
